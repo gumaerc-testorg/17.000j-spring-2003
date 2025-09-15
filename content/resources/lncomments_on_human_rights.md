@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Comments on Human Rights
-file: /courses/17-000j-political-philosophy-global-justice-spring-2003/f35209cc819d68714752d9db71a162d8_lncomments_on_human_rights.pdf
+file: /ol-ocw-studio-app/courses/17-000j-political-philosophy-global-justice-spring-2003/f35209cc819d68714752d9db71a162d8_lncomments_on_human_rights.pdf
+file_size: 64488
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

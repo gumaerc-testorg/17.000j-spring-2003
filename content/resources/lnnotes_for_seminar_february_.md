@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: 'Notes for seminar class # 2'
-file: /courses/17-000j-political-philosophy-global-justice-spring-2003/b77cdd1417d64920a6837c0451e615f6_lnnotes_for_seminar_february_.pdf
+file: /ol-ocw-studio-app/courses/17-000j-political-philosophy-global-justice-spring-2003/b77cdd1417d64920a6837c0451e615f6_lnnotes_for_seminar_february_.pdf
+file_size: 38801
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

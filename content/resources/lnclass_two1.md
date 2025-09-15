@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: The Terrain of a Global Normative Order
-file: /courses/17-000j-political-philosophy-global-justice-spring-2003/eaac78ad67c537eb29b384e83e0b8413_lnclass_two1.pdf
+file: /ol-ocw-studio-app/courses/17-000j-political-philosophy-global-justice-spring-2003/eaac78ad67c537eb29b384e83e0b8413_lnclass_two1.pdf
+file_size: 66964
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

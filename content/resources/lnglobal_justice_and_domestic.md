@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Global Justice and Domestic Institutions
-file: /courses/17-000j-political-philosophy-global-justice-spring-2003/f024f97d24b7bde2ba7aeae3922f422d_lnglobal_justice_and_domestic.pdf
+file: /ol-ocw-studio-app/courses/17-000j-political-philosophy-global-justice-spring-2003/f024f97d24b7bde2ba7aeae3922f422d_lnglobal_justice_and_domestic.pdf
+file_size: 51178
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

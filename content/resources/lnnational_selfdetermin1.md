@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Comments on National Self-Determination
-file: /courses/17-000j-political-philosophy-global-justice-spring-2003/4029ee381813b6a306b256a4749b3625_lnnational_selfdetermin1.pdf
+file: /ol-ocw-studio-app/courses/17-000j-political-philosophy-global-justice-spring-2003/4029ee381813b6a306b256a4749b3625_lnnational_selfdetermin1.pdf
+file_size: 52794
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

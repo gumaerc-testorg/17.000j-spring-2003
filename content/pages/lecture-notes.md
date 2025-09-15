@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides a selection of lecture notes from the course.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -45,7 +46,7 @@ Notes for Seminar class #2\*
 3
 {{< tdclose >}}
 {{< tdopen >}}
-The Terrain of a Global Normative Order ([PDF]({{< baseurl >}}/resources/lnclass_two1))
+The Terrain of a Global Normative Order ({{% resource_link eaac78ad-67c5-37eb-29b3-84e83e0b8413 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -57,7 +58,7 @@ The Terrain of a Global Normative Order ([PDF]({{< baseurl >}}/resources/lnclass
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Comments on National Self-Determination ([PDF]({{< baseurl >}}/resources/lnnational_selfdetermin1))
+Comments on National Self-Determination ({{% resource_link 4029ee38-1813-b6a3-06b2-56a4749b3625 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -81,7 +82,7 @@ Notes for Seminar class #5\*
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Global Democracy, Without the State ([PDF]({{< baseurl >}}/resources/lnstate))
+Global Democracy, Without the State ({{% resource_link 6b3a4602-845e-bbeb-f9ec-38a2e80357a6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -93,7 +94,7 @@ Global Democracy, Without the State ([PDF]({{< baseurl >}}/resources/lnstate))
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Global Justice and Domestic Institutions ([PDF]({{< baseurl >}}/resources/lnglobal_justice_and_domestic))
+Global Justice and Domestic Institutions ({{% resource_link f024f97d-24b7-bde2-ba7a-eae3922f422d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -105,7 +106,7 @@ Global Justice and Domestic Institutions ([PDF]({{< baseurl >}}/resources/lnglob
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Comments on Human Rights ([PDF]({{< baseurl >}}/resources/lncomments_on_human_rights))
+Comments on Human Rights ({{% resource_link f35209cc-819d-6871-4752-d9db71a162d8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

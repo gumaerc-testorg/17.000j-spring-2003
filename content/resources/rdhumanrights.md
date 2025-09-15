@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: 'Minimalism About Human Rights: The Most We Can Hope For?'
-file: /courses/17-000j-political-philosophy-global-justice-spring-2003/83186c771253620a9a36bd96d5b00f8a_rdhumanrights.pdf
+file: /ol-ocw-studio-app/courses/17-000j-political-philosophy-global-justice-spring-2003/83186c771253620a9a36bd96d5b00f8a_rdhumanrights.pdf
+file_size: 109142
 file_type: application/pdf
 learning_resource_types:
 - Readings

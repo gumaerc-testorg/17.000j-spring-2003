@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, requirements, and books.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -14,7 +16,7 @@ Lectures: 1 session / week, 2 hours / session
 Syllabus
 --------
 
-Syllabus ([PDF]({{< baseurl >}}/resources/global_justice))
+Syllabus ({{% resource_link 6d169df0-2757-e09a-2904-1cde69f26f0b "PDF" %}})
 
 Requirements
 ------------
