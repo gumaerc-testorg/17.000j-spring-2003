@@ -1,14 +1,15 @@
 ---
 content_type: page
+description: This section provides details on course texts, required readings, and
+  suggested readings.
+draft: false
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
 title: Readings
 uid: c04e09ba-0510-dc99-6f7e-0c54d8279487
 ---
-
-Texts
------
+## Texts
 
 Beitz, Charles. _Political Theory and International Relations._ Princeton, N.J.: Princeton University Press, 1999.
 
@@ -28,8 +29,7 @@ Sen, Amartya. _Development as Freedom._ New York: Knopf, 1999.
 
 Stiglitz, Joseph. _Globalization and Its Discontents._ New York: W.W. Norton, 2002.
 
-Required Readings
------------------
+## Required Readings
 
 Adelman, Martin, and Sonia Baldia. "Prospects and Limits of the Patent Provision in the TRIPS Agreement: The Case of India." _Vanderbilt Journal of Transnational Law_ 29 (1996): 507-33.
 
@@ -43,15 +43,15 @@ Buchanan, Alan. "Recognitional Legitimacy." _Philosophy and Public Affairs_ 28, 
 
 Carens, Joseph. "The Rights of Immigrants." In _Group Rights_. Edited by J. Baker. Toronto: University of Toronto Press, 1994, pp. 142-63
 
-Cohen, Joshua. "Minimalism About Human Rights: The Most We Can Hope For?" Manuscript. MIT. ([PDF]({{< baseurl >}}/resources/rdhumanrights))
+Cohen, Joshua. "Minimalism About Human Rights: The Most We Can Hope For?" Manuscript. MIT. ({{% resource_link 83186c77-1253-620a-9a36-bd96d5b00f8a "PDF" %}})
 
-Cohen, Joshua, and Joel Rogers. "Globalization, Growth, and Poverty." Manuscript. MIT. ([PDF]({{< baseurl >}}/resources/rdglobalizationl))
+Cohen, Joshua, and Joel Rogers. "Globalization, Growth, and Poverty." Manuscript. MIT. ({{% resource_link eac8f46c-7ba6-9a3c-0175-e498d4e2f021 "PDF" %}})
 
 Dahl, Robert. "Can International Organizations be Democratic? A Skeptic's View." In _Democracy's Edges_. Edited by Ian Shapiro and Casiano Hacker-Cordon. Cambridge, UK: Cambridge University Press, 1999, pp. 19-36.
 
 Franck, Thomas. "The Emerging Right to Democratic Governance." _The American Journal of International Law_ 86, 1 (1992): 46-91.
 
-Habermas, Jürgen. "Kant's Perpetual Peace at 200 Years Remove." In _The Inclusion of the Other_. Cambridge, Mass.: MIT PRess, 1998, pp. 165-201.
+Habermas, Jürgen. "Kant's Perpetual Peace at 200 Years Remove." In _The Inclusion of the Other_. Cambridge, Mass.: MIT Press, 1998, pp. 165-201.
 
 Habermas, Jürgen. "Struggles for Recognition in the Democratic State." In _Inclusion of the Other_. Pp. 226-236.
 
@@ -77,8 +77,7 @@ Tobin, James. "A Comment on Dahl's Skepticism." In _Democracy's Edges_. Edited b
 
 Walzer, Michael. _Spheres of Justice_. New York: Basic Books, 1983. Chap. 2.
 
-Suggested Readings
-------------------
+## Suggested Readings
 
 Archibugi, Danielle, and David Held, eds. _Cosmopolitan Democracy: An Agenda for a New World Order._ Cambridge, UK: Polity Press, 1995.
 
